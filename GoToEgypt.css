@@ -1,0 +1,81 @@
+body {
+    background-color: bisque;
+    /*background-image: url(https://www.arcgis.com/sharing/rest/content/items/5de3c7cc04a94512b8025bbdaeed2169/resources/1576558560992.jpeg?w=2400);*/
+    background-image: url(https://3uqakb1sskkl1q6ngkr8zp42-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/DSC_0909-1140x530.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    background-color: /*#DF9F47*/ #ECC18E;
+}
+
+.topNav{
+  text-align: right;
+  padding-top: 25px;
+  padding-right:14% ;
+}
+
+#logo{
+  padding-right: 33%;
+  color: white;
+}
+
+.button{
+  color: white;
+  background-color: transparent;
+  border: none;
+  font-family: "", serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 20px;
+}
+.p{
+  color: #AD764A;
+  text-align: center;
+  padding-top: 80px;
+  font-family: "", serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.h1{
+  color: white;
+  text-align: center;
+  font-family: "", serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.scroll{
+  color: white;
+  background-color: transparent;
+  border: none;
+  margin-bottom: 30%;
+}
+
+.h2Small{
+  text-align: center;
+  color: #313733;
+  font-size: 15px;
+}
+
+.h2Large{
+  text-align: center;
+  color: #313733;
+  font-size: 30px;
+}
+
+.textBox{
+  color: white;
+  font-size: 20px;
+  column-count: 2;
+  column-gap: 100px;
+  padding: 40px 150px 40px 150px;
+}
+
+.image{
+  width: 220px;
+  height: 300px;
+}
